@@ -1,5 +1,5 @@
-# 🚗 API REST - Gestion de Voitures Classiques
-
+# 🚗 API REST / Développement Web Frontend - Gestion de Voitures Classiques
+Auteurs : Mael Korchef & Jean Jaussaud / FISA 3
 API REST pour gérer une collection de voitures classiques. Développée avec Node.js, Express et SQLite.
 
 ## 📋 Prérequis
